@@ -1,5 +1,4 @@
 # Bromografo
-Bromografo
 
 Timer per Bromografo. 
 
