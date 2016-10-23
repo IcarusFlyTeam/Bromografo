@@ -135,7 +135,7 @@ void read_cmd() {
    if((code0==HIGH) && (code1==LOW) && (code2==HIGH) && ((comando != START) || (comando == INIT))) {
     comando = 6;
     //Serial.println("Hot lamp");
-    seconds = 20;
+    seconds = 5;
     minutes = 0;
     write_data();    
   }
