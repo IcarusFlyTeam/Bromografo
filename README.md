@@ -11,5 +11,5 @@ E' necessario includere nella cartella TimerOne.h e TimerOne.c
 
 
 # Programmazione
-Collegare Arduino Mini come mostrato in figura "Connessioni" e impostare <br />
-Arduino UNO come scheda di destinazione dello sketch
+Collegare Arduino Mini come mostrato in figura "programmingArduinoMini.jpg"<br />
+e impostare Arduino UNO come scheda di destinazione dello sketch.
